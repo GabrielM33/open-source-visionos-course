@@ -1,6 +1,8 @@
 # The Open Source VisionOS Course
 
-Explore this curated list of free courses and content from reputable sources to learn the fundamentals of VisionOS development and prepare for this emerging industry. While you can skip stages based on your current knowledge, starting from the beginning is highly recommended.
+Explore this curated list of free courses and content from reputable sources to learn the fundamentals of VisionOS development and prepare for this emerging industry. 
+
+While you can skip stages based on your current knowledge, starting from the beginning is highly recommended.
 
 # Stage 1: iOS Development 
 ## Swift Programming
