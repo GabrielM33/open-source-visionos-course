@@ -1,4 +1,4 @@
-# The Python Open Source Computer Science Degree
+# The Open Source VisionOS Course
 
 This curated list of free courses and content from reputable sources will teach you the fundamentals of VisionOS development and prepare you for this emerging industry.
 
