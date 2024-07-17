@@ -16,40 +16,43 @@ Courses | Creator | Duration | Type | Prerequisites
 ## SwiftUI
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[WWDC24: Swift UI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | YouTube Video | none
+[WWDC24: SwiftUI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | YouTube Video | none
+[WWDC24: What's New in SwiftUI](https://www.youtube.com/watch?v=CNMRV0F0w74) | Apple | 23 minutes | YouTube Video | none
 
 ## App Architecture
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
 ## Testing
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
 ## App Store Submission and Marketing (App Store Optimisation)
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
+ <br>
 
 # Stage 2: Mobile Spatial Computing
 ## 3D Modelling
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
 ## Reality Composer
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
 ## ARKit and RealityKit
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
+ <br>
 
 # Stage 3: VisionOS Development
 ## VisionOS
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
 
 ## API Kits
-Courses | School | Duration | Effort | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
