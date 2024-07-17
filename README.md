@@ -17,6 +17,7 @@ Courses | Creator | Duration | Type | Prerequisites
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [WWDC24: SwiftUI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | YouTube Video | none
+[SwiftUI Fundamentals](https://www.youtube.com/watch?v=b1oC7sLIgpI) | Sean Allen | 12 hours | YouTube Video | Swift Basics
 [WWDC24: What's New in SwiftUI](https://www.youtube.com/watch?v=CNMRV0F0w74) | Apple | 23 minutes | YouTube Video | none
 
 ## App Architecture
