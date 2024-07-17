@@ -26,6 +26,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 
+
 # Stage 2: Mobile Spatial Computing
 ## 3D Modelling
 Courses | School | Duration | Effort | Frequency | Prerequisites
@@ -38,6 +39,7 @@ Courses | School | Duration | Effort | Frequency | Prerequisites
 ## ARKit and RealityKit
 Courses | School | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
+
 
 # Stage 3: VisionOS Development
 ## VisionOS
