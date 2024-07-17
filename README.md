@@ -10,7 +10,7 @@ Courses | Creator | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [WWDC24: A Swift Tour](https://www.youtube.com/watch?v=boiLzazJ9j4&t=127s) | Apple | 27 minutes | YouTube Playlist | none
 [Swift Basics](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB) | Swiftful Thinking | 7 hours | YouTube Playlist | none
-[Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | YouTUbe Video | none
+[Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | YouTube Video | none
 [Swift Guide](https://developer.apple.com/swift/)| Apple | n/a | Written Guide | none
 
 ## SwiftUI
