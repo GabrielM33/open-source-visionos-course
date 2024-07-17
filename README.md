@@ -10,7 +10,7 @@ Courses | Creator | Duration | Effort | Frequency | Prerequisites
 :-- | :--: | :--: | :--: | :--: | :--:
 [Swift Basics](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB) | Swiftful Thinking | 7 hours | 7 hours/week | self-paced | none
 [Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | 5 hours/week | self-paced | none
-[Swift Guide]([https://www.swift.org/documentation/](https://developer.apple.com/swift/) | Apple | | | self-paced | none
+[Swift Guide](https://developer.apple.com/swift/)| Apple | | | self-paced | none
 [A Swift Tour](https://www.youtube.com/watch?v=boiLzazJ9j4&t=127s) | Apple | 30 minutes | 30 minutes/week | sellf-paced | none
 
 
