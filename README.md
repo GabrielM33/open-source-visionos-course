@@ -7,16 +7,16 @@ While you can skip stages based on your current knowledge, starting from the beg
 # Stage 1: iOS Development 
 ## Swift Programming
 Courses | Creator | Duration | Type | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
+:-- | :--: | :--: | :--: | :--:
 [WWDC24: A Swift Tour](https://www.youtube.com/watch?v=boiLzazJ9j4&t=127s) | Apple | 30 minutes | YouTube Playlist | none
 [Swift Basics](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB) | Swiftful Thinking | 7 hours | YouTube Playlist | none
 [Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | YouTUbe Video | none
 [Swift Guide](https://developer.apple.com/swift/)| Apple | | Written Guide | none
 
 ## SwiftUI
-Courses | School | Duration | Frequency | Prerequisites
-:-- | :--: | :--: | :--: | :--: | :--:
-[WWDC24: Swift UI Essentials | Apple | 24 minutes | 
+Courses | School | Duration | Type | Prerequisites
+:-- | :--: | :--: | :--: | :--:
+[WWDC24: Swift UI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | YouTube Video | none
 
 ## App Architecture
 Courses | School | Duration | Effort | Frequency | Prerequisites
