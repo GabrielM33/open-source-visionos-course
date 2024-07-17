@@ -52,7 +52,7 @@ Courses | School | Duration | Type | Prerequisites
 ## VisionOS
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[Spatial Computing](https://www.youtube.com/playlist?list=PLjODKV8YBFHYA70y_Mrw1Sk2LErTjogpq) | Apple | | Playlist | ?
+[Spatial Computing](https://www.youtube.com/playlist?list=PLjODKV8YBFHYA70y_Mrw1Sk2LErTjogpq) | Apple | | YouTube Playlist | ?
 
 ## API Kits
 Courses | School | Duration | Type | Prerequisites
