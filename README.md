@@ -57,3 +57,5 @@ Courses | School | Duration | Type | Prerequisites
 ## API Kits
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
+
+## Follow Along Projects
