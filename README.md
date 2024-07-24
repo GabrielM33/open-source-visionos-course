@@ -8,17 +8,17 @@ While you can skip stages based on your current knowledge, starting from the beg
 ## Swift Programming
 Courses | Creator | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[WWDC24: A Swift Tour](https://www.youtube.com/watch?v=boiLzazJ9j4&t=127s) | Apple | 27 minutes | YouTube Video | none
-[Swift Basics](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB) | Swiftful Thinking | 7 hours | YouTube Playlist | none
-[Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | YouTube Playlist | none
+[WWDC24: A Swift Tour](https://www.youtube.com/watch?v=boiLzazJ9j4&t=127s) | Apple | 27 minutes | Video | none
+[Swift Basics](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiLvzZFJI6rVIBtdolrJBVB) | Swiftful Thinking | 7 hours | Playlist | none
+[Git & Source Control](https://www.youtube.com/playlist?list=PLwvDm4VfkdpiALKk34l9mUS2f4mdJPvXq) | Swiftful Thinking | 5 hours | Playlist | none
 [Swift Guide](https://developer.apple.com/swift/)| Apple | n/a | Written Guide | none
 
 ## SwiftUI
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[WWDC24: SwiftUI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | YouTube Video | none
-[SwiftUI Fundamentals](https://www.youtube.com/watch?v=b1oC7sLIgpI) | Sean Allen | 12 hours | YouTube Video | Swift Basics
-[WWDC24: What's New in SwiftUI](https://www.youtube.com/watch?v=CNMRV0F0w74) | Apple | 23 minutes | YouTube Video | none
+[WWDC24: SwiftUI Essentials](https://www.youtube.com/watch?v=HyQgpxX__-A) | Apple | 24 minutes | Video | none
+[SwiftUI Fundamentals](https://www.youtube.com/watch?v=b1oC7sLIgpI) | Sean Allen | 12 hours | Video | Swift Basics
+[WWDC24: What's New in SwiftUI](https://www.youtube.com/watch?v=CNMRV0F0w74) | Apple | 23 minutes | Video | none
 
 ## App Architecture
 Courses | School | Duration | Type | Prerequisites
