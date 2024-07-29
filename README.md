@@ -61,3 +61,4 @@ Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 
 ## Follow Along Projects
+
