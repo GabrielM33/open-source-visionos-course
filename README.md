@@ -36,7 +36,7 @@ Courses | School | Duration | Type | Prerequisites
 ## App Store Submission and Marketing (App Store Optimisation)
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[A Complete Guide to ASO](9https://www.semrush.com/blog/app-store-optimization/) | Semrush |  | Article | 
+[A Complete Guide to ASO](https://www.semrush.com/blog/app-store-optimization/) | Semrush |  | Article | 
 [ASO Stack](https://www.semrush.com/blog/app-store-optimization/) | Phiture |  | Blog | 
 [App Masters](https://www.youtube.com/@AppMasters/videos) | App Masters |  | Channel | 
  <br>
@@ -45,7 +45,7 @@ Courses | School | Duration | Type | Prerequisites
 ## 3D Modelling
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[Blender 2.8 Beginner Donut Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) | Blender Guru |  | Playlist | 
+[Blender 2.8 Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) | Blender Guru |  | Playlist | 
 [Gravity Sketch](https://www.gravitysketch.com/) | GravitySketch |  | Tool | 
 [Object Capture](https://developer.apple.com/videos/play/wwdc2023/10191/) | Apple |  | Video | 
 [Free and Paid 3D Assets](https://sketchfab.com/) | Sketchfab |  | Marketplace |  
