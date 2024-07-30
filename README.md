@@ -23,7 +23,7 @@ Courses | School | Duration | Type | Prerequisites
 ## App Architecture
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
-[Model View Controller (MVC)](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html) | Apple |  } Documentation | 
+[Model View Controller (MVC)](https://developer.apple.com/library/archive/documentation/General/Conceptual/DevPedia-CocoaCore/MVC.html) | Apple |  | Documentation | 
 [Model-View-ViewModel (MVVM)](https://www.kodeco.com/34-design-patterns-by-tutorials-mvvm) | Kodeco |  | Book Chapter |
 
 ## Testing
@@ -41,7 +41,7 @@ Courses | School | Duration | Type | Prerequisites
 [App Masters](https://www.youtube.com/@AppMasters/videos) | App Masters |  | Channel | 
  <br>
 
-# Stage 2: Mobile Spatial Computing
+# Stage 2: Mobile Augmented Reality
 ## 3D Modelling
 Courses | School | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
