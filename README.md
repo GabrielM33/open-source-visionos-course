@@ -80,5 +80,6 @@ Courses | Creator | Duration | Type | Prerequisites
 [WWDC24: Discover RealityKit APIs](https://www.youtube.com/watch?v=sUZ_93aaZmw&t=242s&ab_channel=AppleDeveloper) | Apple | | Video | 
 [VisionOS 2.0 APIs](https://developer.apple.com/visionos/) | Apple | | Release Notes | 
 
+<br>
 
-Extra:Book "The Next Big Skill" by Khalil Jacbob
+For those looking to dive deeper into the skills needed for future tech landscapes, consider reading "The Next Big Skill" by Khalil Jacob.
