@@ -78,7 +78,7 @@ Courses | Creator | Duration | Type | Prerequisites
 [WWDC24: TabletopKit](https://www.youtube.com/watch?v=miuHfTi27qw&t=306s&ab_channel=AppleDeveloper) | Apple | | Video | 
 [WWDC24: Enterprise APIs](https://www.youtube.com/watch?v=LOYD9aQNuGM&ab_channel=AppleDeveloper) | Apple | | Video | 
 [WWDC24: Discover RealityKit APIs](https://www.youtube.com/watch?v=sUZ_93aaZmw&t=242s&ab_channel=AppleDeveloper) | Apple | | Video | 
-[VisionOS 2.0 APIs](https://developer.apple.com/visionos/) | Apple | | Release Notes | 
+[VisionOS 2.0 APIs](https://developer.apple.com/visionos/) | Apple | | Release Notes |
 
 <br>
 
