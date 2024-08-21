@@ -41,7 +41,7 @@ Courses | Creator | Duration | Type | Prerequisites
  <br>
 
 # Stage 2: Mobile Augmented Reality
-## 3D Modelling
+## 3D Modelling 
 Courses | Creator | Duration | Type | Prerequisites
 :-- | :--: | :--: | :--: | :--:
 [Blender 2.8 Tutorial Series](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U) | Blender Guru |  | Playlist | 
